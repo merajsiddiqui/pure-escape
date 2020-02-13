@@ -47,5 +47,5 @@ URI: http://localhost:3000
 Output : {"data":"Invalid Endpoint... refer documentation"}
 
 URI: http://localhost:3000/16b
-Output : "error":"Provided data is not an integer"}
+Output : {"error":"Provided data is not an integer"}
 ```
